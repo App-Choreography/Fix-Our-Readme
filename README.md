@@ -1,6 +1,7 @@
 # Fix-Our-Readme!
-
-### Get an invite to our organisation when you contribute!
+ Get an invite to our organisation when you contribute!
+ 
+**This is a super easy way to polish your issue and pull request skills!**
 
 ## Firstly, make a pull request with your fixes, and then create an issue, either using our templates, or free style!
 
@@ -135,26 +136,10 @@ body, html {
     text-align: center;
 }
 ```
+## How you guys can help!
 
+- [x] We need to add a CSS explanation!
+ 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-🏗 Still In Progress, will be back VERY soon! 🏗
+🏗 Still In Progress, will be back VERY soon(you can start fixing now though)! 🏗
 

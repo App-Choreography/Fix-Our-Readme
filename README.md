@@ -9,6 +9,8 @@
 
 ## Here is the list on what to fix:
 
+## > Please only choose 1 error per coder, so everyone has a go!
+
 - [x] Headings on where they are designed:
 
 `#` This is where a H1 is meant to be!

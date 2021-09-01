@@ -93,7 +93,7 @@ the `body` tagg shoows the elements of the DOM(Document Object Moddell).
     <div class="bg-text">WORD BLA BLA BLA</div>
 ```
 
-##So we have 6 `<div>` elements, that contain imgs, and our last div contains our main twxt!
+##So we have 6 `<div>` elements, that contain imgs, and our last div contains our main text!
 
 ## Time for the CSS!
 

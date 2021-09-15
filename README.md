@@ -36,7 +36,7 @@ Here we go!
 
 ![alt text](https://user-images.githubusercontent.com/70807500/129236192-d50c8137-4cae-4b0f-b489-6b2bdf4458ad.png)
 
-Luks cool right?
+Looks cool right?
 
 ## The reqired code you will need:
 

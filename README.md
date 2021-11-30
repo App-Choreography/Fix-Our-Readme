@@ -2,7 +2,7 @@
 
 # Fix-Our-Readme!
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
  Get an invite to our organisation when you contribute!
  
@@ -162,6 +162,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://codingspecies.github.io/MeAndMyApps/"><img src="https://avatars.githubusercontent.com/u/70807500?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CodingSpecies</b></sub></a><br /><a href="#projectManagement-CodingSpecies" title="Project Management">📆</a></td>
     <td align="center"><a href="https://github.com/sumitmukharjeeeeee"><img src="https://avatars.githubusercontent.com/u/59107641?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sumit Mukharjee</b></sub></a><br /><a href="#content-sumitmukharjeeeeee" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/HarshitAditya27"><img src="https://avatars.githubusercontent.com/u/71604531?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Harshit Aditya</b></sub></a><br /><a href="#content-HarshitAditya27" title="Content">🖋</a></td>
+    <td align="center"><a href="https://kira272921.netlify.app"><img src="https://avatars.githubusercontent.com/u/90365542?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kira</b></sub></a><br /><a href="#content-Kira272921" title="Content">🖋</a></td>
   </tr>
 </table>
 

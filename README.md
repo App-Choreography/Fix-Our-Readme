@@ -34,7 +34,7 @@ Here we go!
 
 ## How to make a website with mutiple backgrounds:
 
-###here is the screenshot of the website we will master today!
+### Here is the screenshot of the website we will master today!
 
 ![alt text](https://user-images.githubusercontent.com/70807500/129236192-d50c8137-4cae-4b0f-b489-6b2bdf4458ad.png)
 
@@ -67,7 +67,7 @@ Looks cool right?
 </html>
 ```
 
-###The HTML:
+### The HTML:
 
 as allways, their will always be a boilerplate::;
 
@@ -95,7 +95,7 @@ the `body` tagg shoows the elements of the DOM(Document Object Moddell).
     <div class="bg-text">WORD BLA BLA BLA</div>
 ```
 
-##So we have 6 `<div>` elements, that contain imgs, and our last div contains our main text!
+## So we have 6 `<div>` elements, that contain imgs, and our last div contains our main text!
 
 ## Time for the CSS!
 

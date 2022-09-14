@@ -69,7 +69,7 @@ Looks cool right?
 
 ### The HTML:
 
-as allways, their will always be a boilerplate::;
+as always, their will always be a boilerplate::;
 
 ```html
 <!DOCTYPE html>

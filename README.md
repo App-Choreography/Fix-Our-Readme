@@ -1,6 +1,6 @@
 ###### Join our org [Here ✉️](https://github.com/App-Choreography/Get-An-Invite/issues/new?assignees=CodingSpecies&labels=Organisation+Invite%21+%F0%9F%93%A8&template=please-can-i-join-this-organisation------.md&title=Please+Can+I+Join+This+Organisation%3F+%F0%9F%A5%BA%F0%9F%99%8F") | [Our Website 🌐](https://app-choreography.github.io/) | [Repositories 📚](https://github.com/orgs/App-Choreography/repositories)
 
-# Fix-Our-Readme!
+# Fix Our Readme!
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -8,30 +8,30 @@
  
 **This is a super easy way to polish your issue and pull request skills!**
 
-## Firstly, make a pull request with your fixes, and then create an issue, either using our templates, or free style!
+Simply make a pull request with your fixes, and then create an issue, either using our templates, or free style!
 
-## See how to contribute: 
-[How-To-Contribute](https://github.com/App-Choreography/How-To-Contribute)
+### Contributing Guidelines: [How-To-Contribute](https://github.com/App-Choreography/How-To-Contribute)
 
 ## Here is the list on what to fix:
 
-> ### Please only choose 1 error per coder, so everyone has a go!
+> Please only choose 1 error per coder, so everyone has a go!
 
 - [x] Headings on where they are designed:
 
-`#` This is where a H1 is meant to be!
+  `#` This is where a H1 is meant to be!
 
 - [x] Capital letters where they are missing, at the start of every sentence.
 - [x] Spelling mistakes.
 - [x] Broken markdown: 
 
-`##This is a H2` ----> `## This is a H2`
+  `##This is a H2` ----> `## This is a H2`
 
-------------------------------------------
+---
 
 ## Are you ready...
 Here we go!
 
+---
 ## How to make a website with mutiple backgrounds:
 
 ### Here is the screenshot of the website we will master today!
@@ -144,10 +144,6 @@ body, html {
 ## How you guys can help!
 
 - [x] We need to add a CSS explanation!
- 
-
-🏗 Still In Progress, will be back VERY soon(you can start fixing now though)! 🏗
-
 
 ## Contributors ✨
 

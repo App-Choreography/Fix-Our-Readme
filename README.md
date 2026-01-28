@@ -32,7 +32,7 @@ Simply make a pull request with your fixes, and then create an issue, either usi
 Here we go!
 
 ---
-## How to make a website with mutiple backgrounds:
+## How to make a website with multiple backgrounds:
 
 ### Here is the screenshot of the website we will master today!
 

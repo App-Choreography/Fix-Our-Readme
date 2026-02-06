@@ -40,7 +40,7 @@ Here we go!
 
 Looks cool right?
 
-## The reqired code you will need:
+## The required code you will need:
 
 ```html
 <!DOCTYPE html>
@@ -81,9 +81,9 @@ as always, their will always be a boilerplate::;
 </html>
 ```
 
-the `body` tagg shoows the elements of the DOM(Document Object Moddell).
+the `body` tag shows the elements of the DOM(Document Object Model).
 
-## Lets carrie on!
+## Lets carry on!
 
 ```html
     <div class="bg-image img1"></div>

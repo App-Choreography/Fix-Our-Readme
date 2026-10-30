@@ -58,6 +58,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Jah-yee",
+      "name": "RoomWithOutRoof",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166608075?v=4",
+      "profile": "https://bonjour.bio/7666",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -65,5 +74,7 @@
   "projectOwner": "App-Choreography",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitType": "docs",
+  "commitConvention": "angular"
 }

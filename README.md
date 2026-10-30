@@ -2,7 +2,7 @@
 
 # Fix Our Readme!
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
  Get an invite to our organisation when you contribute!
  
@@ -155,12 +155,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/qwe123coder"><img src="https://avatars.githubusercontent.com/u/72848513?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anirudh  Anup</b></sub></a><br /><a href="#content-qwe123coder" title="Content">🖋</a></td>
-      <td align="center"><a href="https://codingspecies.github.io/MeAndMyApps/"><img src="https://avatars.githubusercontent.com/u/70807500?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CodingSpecies</b></sub></a><br /><a href="#projectManagement-CodingSpecies" title="Project Management">📆</a></td>
-      <td align="center"><a href="https://github.com/sumitmukharjeeeeee"><img src="https://avatars.githubusercontent.com/u/59107641?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sumit Mukharjee</b></sub></a><br /><a href="#content-sumitmukharjeeeeee" title="Content">🖋</a></td>
-      <td align="center"><a href="https://github.com/HarshitAditya27"><img src="https://avatars.githubusercontent.com/u/71604531?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Harshit Aditya</b></sub></a><br /><a href="#content-HarshitAditya27" title="Content">🖋</a></td>
-      <td align="center"><a href="https://kira272921.netlify.app"><img src="https://avatars.githubusercontent.com/u/90365542?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kira</b></sub></a><br /><a href="#content-Kira272921" title="Content">🖋</a></td>
-      <td align="center"><a href="https://bio.link/harsh1x4"><img src="https://avatars.githubusercontent.com/u/93096721?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Harshbardhan Singh</b></sub></a><br /><a href="#content-harsh1x4" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/qwe123coder"><img src="https://avatars.githubusercontent.com/u/72848513?v=4?s=100" width="100px;" alt="Anirudh  Anup"/><br /><sub><b>Anirudh  Anup</b></sub></a><br /><a href="#content-qwe123coder" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://codingspecies.github.io/MeAndMyApps/"><img src="https://avatars.githubusercontent.com/u/70807500?v=4?s=100" width="100px;" alt="CodingSpecies"/><br /><sub><b>CodingSpecies</b></sub></a><br /><a href="#projectManagement-CodingSpecies" title="Project Management">📆</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/sumitmukharjeeeeee"><img src="https://avatars.githubusercontent.com/u/59107641?v=4?s=100" width="100px;" alt="Sumit Mukharjee"/><br /><sub><b>Sumit Mukharjee</b></sub></a><br /><a href="#content-sumitmukharjeeeeee" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/HarshitAditya27"><img src="https://avatars.githubusercontent.com/u/71604531?v=4?s=100" width="100px;" alt="Harshit Aditya"/><br /><sub><b>Harshit Aditya</b></sub></a><br /><a href="#content-HarshitAditya27" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://kira272921.netlify.app"><img src="https://avatars.githubusercontent.com/u/90365542?v=4?s=100" width="100px;" alt="Kira"/><br /><sub><b>Kira</b></sub></a><br /><a href="#content-Kira272921" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://bio.link/harsh1x4"><img src="https://avatars.githubusercontent.com/u/93096721?v=4?s=100" width="100px;" alt="Harshbardhan Singh"/><br /><sub><b>Harshbardhan Singh</b></sub></a><br /><a href="#content-harsh1x4" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://bonjour.bio/7666"><img src="https://avatars.githubusercontent.com/u/166608075?v=4?s=100" width="100px;" alt="RoomWithOutRoof"/><br /><sub><b>RoomWithOutRoof</b></sub></a><br /><a href="#content-Jah-yee" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
